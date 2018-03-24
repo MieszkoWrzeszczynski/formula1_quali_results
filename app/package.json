@@ -1,0 +1,9 @@
+{
+  "main": "main.js",
+  "name": "nativescript-vue-template",
+  "version": "0.2.0",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "http": "0.0.0"
+  }
+}
